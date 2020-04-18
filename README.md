@@ -1,6 +1,6 @@
 # coc-godot
 
-coc.nvim extension for godot lsp server
+coc.nvim extension for godot language server protocol.
 Original work by https://github.com/godotengine/godot-vscode-plugin ported to coc.nvim
 
 This extension will most likely become useless once godot 3.2.2 is released,
