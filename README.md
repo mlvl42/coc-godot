@@ -1,5 +1,7 @@
 # coc-godot
 
+This extension is now useless since https://github.com/godotengine/godot/issues/34523 has been closed in godot version `3.2.2`.
+
 coc.nvim extension for godot language server protocol.
 Original work by https://github.com/godotengine/godot-vscode-plugin ported to coc.nvim
 
